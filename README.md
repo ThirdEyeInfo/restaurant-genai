@@ -1,5 +1,3 @@
-# restaurant-genai
-Simple Restaurant App using GenAI
 ## Step to run restaurant-genai
 - Clone restaurant-genai in your local machine
 - Download and install Anaconda from https://www.anaconda.com/download
